@@ -1,0 +1,46 @@
+
+#####
+INTRO
+#####
+ - Introduce ourselves
+ - Introduce the MakerLab & MakerClub
+ - Give blurb about the course (dates, content etc.)
+
+###############
+WHAT IS A ROBOT
+###############
+ - How may robots are in the room right now?
+ - Silly video
+
+
+##################
+WHAT IS AN ARDUINO
+##################
+ - What is a computer? What does it do? 
+    - Information / memory
+    - Instructions
+    - Outputs
+    - Why is it so powerful? PROGRAMMING!!!
+ - How is an Arduino different from other computers?
+ - What kind of things can you connect to it?
+ - Where can you find out more?
+
+
+#################
+SCRATCH 4 ARDUINO
+#################
+ - Scratch intro
+ - Pin 13 LED
+ - Auto On/Off
+ - Servo connections illustration
+ - Servo clock face
+ - Move Left / Move Right
+ - Breadboard illustration
+
+
+
+############
+GET CREATIVE
+############
+ - Decorate the robots
+ - See if you can come up with a game idea
