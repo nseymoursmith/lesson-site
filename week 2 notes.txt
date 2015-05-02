@@ -1,0 +1,29 @@
+WEEK 2 NOTES :
+
+GENERAL THOUGHTS : 
+  - Should have a better projector where you can read the text, so I think loads more demos would be helpful.
+  - Really need to make sure that everyone understands all the stuff from last week, as we covered quite a lot.
+  - Try and get the kids who are further ahead to explain things to those that are struggling as often as possible.
+
+RECAP LAST WEEK 
+  - Arduino, and it's parts (5V, gnd, digital/analog pins)
+  - Look at scratch control blocks more explicitly (forever loops, if, if/else)
+  - S4A arduino blocks that we used (digital on/off, digital sensor pressed)
+  - Look a bit closer at how to manage when you have a bunch of different scripts floating around (didn't mention white outline last week)
+  - Set up the switch circuit again and look at it in more detail. (maybe use an extra wire to lessen the chance of shorting it out)
+  - Check for any questions on things that ppl are still unsure of from last week?
+
+SHOW AND TELL 
+  - What has everyone been up to?
+  - Morse code send/receive example?
+
+NEW CONTENT
+  - Look at using analog outs instead of digital
+     - talk about range (0-255)
+     - talk about using resistor for LED (pin 13 already has resistor right?)
+     - look at ways of controlling this (audio reactive example)
+  - Introduce servos
+     - difference between servo/motor, example use cases
+     - diagram for range (0-180)
+     - different ways to control them (look at scratch variables)
+  - Maybe decorate servo arms? How many different things use this kind of motion? (not leaving enough for later on in the course?)
