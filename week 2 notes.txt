@@ -27,3 +27,8 @@ NEW CONTENT
      - diagram for range (0-180)
      - different ways to control them (look at scratch variables)
   - Maybe decorate servo arms? How many different things use this kind of motion? (not leaving enough for later on in the course?)
+
+ POSSIBLE ACTIVITIES
+  - Use conductive tape to design switch circuits 
+      - probably a really useful thing to do for ALL the circuit examples, as they can be easily labelled / decorated / customised
+  - Use scratch's mesh feature to get everyone's projects react to the same broadcast message or share variables
